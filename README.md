@@ -3,10 +3,10 @@
 
 ## Screenshots
 ### Main Page
-![Main Page](Screenshot-Before.png)
+![Main Page](Screenshot-Before.jpg)
 
 ### Generated Image and Story
-![Generated Image and Story](Screenshot-After.png)
+![Generated Image and Story](Screenshot-After.jpg)
 
 ## Instructions to run
 ```
