@@ -3,9 +3,9 @@
 
 ## Screenshots
 ### Main Page
-![Main Page](./Screenshot-Before.png)
+![Main Page](Screenshot-Before.png)
 ### Generated Image and Story
-![Generated Image and Story](./Screenshot-After.png)
+![Generated Image and Story](Screenshot-After.png)
 
 ## Instructions to run
 ```
