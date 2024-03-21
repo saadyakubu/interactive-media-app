@@ -11,7 +11,7 @@
 ## Instructions to run
 ```
 python -m venv env
-cd env\Scripts\activate 
+env\Scripts\activate 
 pip install clarifai python-dotenv streamlit
 streamlit run main.py
 ```
