@@ -4,6 +4,7 @@
 ## Screenshots
 ### Main Page
 ![Main Page](Screenshot-Before.png)
+
 ### Generated Image and Story
 ![Generated Image and Story](Screenshot-After.png)
 
